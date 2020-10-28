@@ -1,0 +1,29 @@
+<!--Basil Eldhose 301116808 Sec 002 -->
+<resources>
+    <string name="app_name">BasilLab3</string>
+    <string name="text1">Tab 1</string>
+    <string name="text2">Tab 2</string>
+    <string name="text3">Tab 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_b">fragment B</string>
+    <string name="fragment_c">fragment c</string>
+    <string name="basil_eldhose_301116808">Basil Eldhose 301116808</string>
+    <string name="line_thickness">Line Thickness</string>
+    <string name="line_color">Line Color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="clear_canvas">Clear Canvas</string>
+    <string name="launch_service">Launch Service</string>
+    <string name="start">Start</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="stop">Stop</string>
+    <string name="basil">Basil</string>
+    <string name="stop_animation">Stop Animation</string>
+    <string name="start_animation">Start Animation</string>
+    <string name="eldhose">Eldhose</string>
+</resources>

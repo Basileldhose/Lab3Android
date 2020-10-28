@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Basil Eldhose 301116808 Sec 002 -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Basilpage_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_half_24"
+        android:title="@string/text1"/>
+    <item
+    android:id="@+id/Basilpage_2"
+    android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_half_24"
+    android:title="@string/text2"/>
+    <item
+        android:id="@+id/Basilpage_3"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_half_24"
+        android:title="@string/text3"/>
+</menu>

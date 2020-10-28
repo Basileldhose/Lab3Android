@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Basil Eldhose 301116808 Sec 002 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="626dp"
+    android:background="#83EC8D"
+    android:orientation="vertical"
+    tools:context=".S301116808Fragment">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="134dp"
+        android:layout_height="85dp"
+        android:rotation="-45"
+        android:text="@string/basil"
+        android:textSize="36sp"></TextView>
+
+    <TextView
+        android:layout_width="248dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:rotation="45"
+        android:text="@string/eldhose"
+        android:textSize="36sp"></TextView>
+
+</LinearLayout>
+
+    <ImageView
+        android:id="@+id/moon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/moon"></ImageView>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="274dp"
+        android:layout_gravity="center"
+        android:src="@drawable/earth"></ImageView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/start_animation"
+            android:id="@+id/animStart"></Button>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/stop_animation"
+            android:id="@+id/animStop"></Button>
+    </LinearLayout>
+</LinearLayout>
